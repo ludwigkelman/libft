@@ -65,4 +65,7 @@ Para generar la libreria estatica usamos **make** este comando nos compilara tod
 #Recursos
 La IA se ha empleado como consultor externo sobre definiciones de funciones o recrear casos particulares.
 
+#Consideraciones
+Segun el compilador que se utilize puede haber errores
+
 
